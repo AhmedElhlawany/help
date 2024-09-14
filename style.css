@@ -36,6 +36,9 @@ h2 {
     margin-top: 50px;
     position: relative;
     height: 40px;
+    display: flex;
+    
+    
 }
 
 button {
@@ -52,6 +55,9 @@ button {
 
 button.yes-btn {
     background: #e94d58;
+   
+
+   
 }
 
 button.no-btn {
